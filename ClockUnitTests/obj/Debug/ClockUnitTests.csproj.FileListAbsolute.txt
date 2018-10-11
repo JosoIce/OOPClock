@@ -1,0 +1,17 @@
+C:\Code\3.2\OOPClock\ClockUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\3.2\OOPClock\ClockUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\3.2\OOPClock\ClockUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\3.2\OOPClock\ClockUnitTests\bin\Debug\ClockUnitTests.dll
+C:\Code\3.2\OOPClock\ClockUnitTests\bin\Debug\ClockUnitTests.pdb
+C:\Code\3.2\OOPClock\ClockUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Code\3.2\OOPClock\ClockUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Code\3.2\OOPClock\ClockUnitTests\bin\Debug\OOPClock.exe
+C:\Code\3.2\OOPClock\ClockUnitTests\bin\Debug\OOPClock.pdb
+C:\Code\3.2\OOPClock\ClockUnitTests\bin\Debug\OOPClock.exe.config
+C:\Code\3.2\OOPClock\ClockUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Code\3.2\OOPClock\ClockUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Code\3.2\OOPClock\ClockUnitTests\obj\Debug\ClockUnitTests.csprojAssemblyReference.cache
+C:\Code\3.2\OOPClock\ClockUnitTests\obj\Debug\ClockUnitTests.csproj.CoreCompileInputs.cache
+C:\Code\3.2\OOPClock\ClockUnitTests\obj\Debug\ClockUnitTests.csproj.CopyComplete
+C:\Code\3.2\OOPClock\ClockUnitTests\obj\Debug\ClockUnitTests.dll
+C:\Code\3.2\OOPClock\ClockUnitTests\obj\Debug\ClockUnitTests.pdb

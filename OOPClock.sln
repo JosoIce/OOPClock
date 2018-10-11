@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPClock", "OOPClock\OOPClock.csproj", "{CC698C9C-A8A9-44E5-8B08-DF7C2268791C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockUnitTests", "ClockUnitTests\ClockUnitTests.csproj", "{AB1176E0-73E5-4126-811A-A77EC8F76220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC698C9C-A8A9-44E5-8B08-DF7C2268791C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC698C9C-A8A9-44E5-8B08-DF7C2268791C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC698C9C-A8A9-44E5-8B08-DF7C2268791C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC698C9C-A8A9-44E5-8B08-DF7C2268791C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB1176E0-73E5-4126-811A-A77EC8F76220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1176E0-73E5-4126-811A-A77EC8F76220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1176E0-73E5-4126-811A-A77EC8F76220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1176E0-73E5-4126-811A-A77EC8F76220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7631E50-0510-4278-B2AB-E36DDCB0029B}
+	EndGlobalSection
+EndGlobal

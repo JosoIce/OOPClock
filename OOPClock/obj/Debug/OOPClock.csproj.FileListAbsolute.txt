@@ -1,0 +1,7 @@
+C:\Code\3.2\OOPClock\OOPClock\bin\Debug\OOPClock.exe.config
+C:\Code\3.2\OOPClock\OOPClock\bin\Debug\OOPClock.exe
+C:\Code\3.2\OOPClock\OOPClock\bin\Debug\OOPClock.pdb
+C:\Code\3.2\OOPClock\OOPClock\obj\Debug\OOPClock.csprojAssemblyReference.cache
+C:\Code\3.2\OOPClock\OOPClock\obj\Debug\OOPClock.csproj.CoreCompileInputs.cache
+C:\Code\3.2\OOPClock\OOPClock\obj\Debug\OOPClock.exe
+C:\Code\3.2\OOPClock\OOPClock\obj\Debug\OOPClock.pdb
